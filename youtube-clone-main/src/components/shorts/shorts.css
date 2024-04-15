@@ -1,0 +1,25 @@
+#short-section {
+  background-color: #0f0f0f;
+  font-family: "Roboto", sans-serif;
+  padding-left: 70px;
+}
+.short-btn {
+  outline: none;
+  border: none;
+  padding: 5px 150px;
+  border: 1px solid #ffffff4c;
+  color: white;
+  background-color: transparent;
+  border-radius: 20px;
+  margin: 5px;
+  background-color: #0f0f0f;
+  /* position: relative; */
+  /* z-index: 1; */
+}
+.short-btn:hover {
+  background-color: #ffffff24;
+}
+.hr-line {
+  border: 1px solid #fff;
+  background-color: #0f0f0f;
+}
